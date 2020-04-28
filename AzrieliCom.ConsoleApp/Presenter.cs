@@ -17,7 +17,7 @@ namespace AzrieliCom.ConsoleApp
         }
 
         public void Handle(AppSettings appSettings)
-        {
+        { 
             _logger.LogInformation("Start");
             
 
